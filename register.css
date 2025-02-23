@@ -1,0 +1,49 @@
+#pr03{
+    background-color: rgb(147, 147, 221);
+    height: 200px;
+    width: 400px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 1px black solid;
+    
+   }
+   #ab01{
+    display: flex;
+    justify-content: center;
+    background-color: aquamarine;
+   }
+   
+   #p5{
+    border: 4px black solid;
+   }
+   #xy01{
+    height: 200px;
+    width: 200px;
+    border: 1px black solid;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: blanchedalmond;
+    
+   }
+   #mn01{
+    height: 200px;
+    width: 400px;
+    border: 1px black solid;
+    align-content: center;
+    background-image: url(download.jpeg);
+    background-size: contain;
+   }
+   #ps10{
+    display: flex;
+    justify-content: space-evenly;
+
+   }
+
+   #kk0{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 50px;
+   }
